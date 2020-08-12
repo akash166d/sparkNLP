@@ -1,6 +1,6 @@
 # sparkNLP
 This python notebook demosntrate basic steps involved in data cleaning & text processing in sparkNLP followed by classificatioin using sparkML.
-It uses song lyrics data from <> to classify genre of songs based on their lyrics.
+It uses song lyrics data from <https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres> to classify genre of songs based on their lyrics.
 
 Following are the steps involved:
 1. Loading Data
